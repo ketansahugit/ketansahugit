@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://ketansahu.netlify.app/)
 <h1 align="center">Hi 👋, I'm Ketan Sahu</h1>
 <h3 align="center">A passionate React developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketansahugit&label=Profile%20views&color=0e75b6&style=flat" alt="ketansahugit" /> </p>
 
