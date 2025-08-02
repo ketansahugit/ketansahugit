@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning : **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at : [https://ketansahu.netlify.app/](https://ketansahu.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at : [https://ketansahu.netlify.app/](https://ketansahu.netlify.app/) -->
 
 - 💬 Ask me about : **MERN Stack**
 
